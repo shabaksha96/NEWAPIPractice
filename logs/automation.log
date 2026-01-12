@@ -1,0 +1,30 @@
+19:49:38.254 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:49:41.987 [main] INFO  test.UserTestCases - ********* Create user completed *********
+19:49:42.016 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:49:42.634 [main] INFO  test.UserTestCases - ********* list user completed *********
+19:49:42.647 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:49:43.220 [main] INFO  test.UserTestCases - ********* view new user completed *********
+19:49:43.235 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:49:43.771 [main] INFO  test.UserTestCases - ********* update user completed *********
+19:49:43.782 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:49:44.299 [main] INFO  test.UserTestCases - ********* delete user completed *********
+19:53:17.894 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:53:21.600 [main] INFO  test.UserTestCases - ********* Create user completed *********
+19:53:21.634 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:53:22.365 [main] INFO  test.UserTestCases - ********* list user completed *********
+19:53:22.390 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:53:23.028 [main] INFO  test.UserTestCases - ********* view new user completed *********
+19:53:23.038 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:53:23.595 [main] INFO  test.UserTestCases - ********* update user completed *********
+19:53:23.603 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:53:24.239 [main] INFO  test.UserTestCases - ********* delete user completed *********
+19:53:48.726 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:53:50.230 [main] INFO  test.UserTestCases - ********* Create user completed *********
+19:53:50.252 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:53:50.844 [main] INFO  test.UserTestCases - ********* list user completed *********
+19:53:50.851 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:53:51.339 [main] INFO  test.UserTestCases - ********* view new user completed *********
+19:53:51.342 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:53:51.817 [main] INFO  test.UserTestCases - ********* update user completed *********
+19:53:51.820 [main] INFO  test.UserTestCases - ********* Started Execution *********
+19:53:52.296 [main] INFO  test.UserTestCases - ********* delete user completed *********
